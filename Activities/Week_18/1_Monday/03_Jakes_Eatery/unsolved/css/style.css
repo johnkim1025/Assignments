@@ -71,7 +71,7 @@ button{
     background-image: url("../images/cheesecake.png");
 }
 .text{
-    background: rgb(0,0,0,0.7);
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0), rgb(0,0,0,0.7));
     width: 100%;
     padding: 20px 40px;
     color: white;
