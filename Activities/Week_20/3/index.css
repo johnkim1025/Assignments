@@ -1,0 +1,17 @@
+.navbar-light .navbar-nav .nav-link {
+    color: white
+}
+.jumbotron{
+    background: url('../3/Images/Group\ 5.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.downArrow{
+     align-items: center;
+     justify-content: center;
+}

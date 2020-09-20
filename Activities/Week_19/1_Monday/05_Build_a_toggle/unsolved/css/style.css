@@ -1,0 +1,26 @@
+/* Style your dropdown below! */
+.container{
+    width: 200px;
+}
+#toggle{
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+    background-color: #FF6767;
+    color: white;
+    padding: 10px 20px 10px 20px;
+}
+li{
+    text-align: center;
+    list-style-type: none;
+    border: 2px solid black;
+    margin: 0;
+    width: 220px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
